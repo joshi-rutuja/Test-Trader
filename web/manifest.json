@@ -1,6 +1,6 @@
 {
-    "name": "stocktrade1_2",
-    "short_name": "stocktrade1_2",
+    "name": "page_navigation",
+    "short_name": "page_navigation",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

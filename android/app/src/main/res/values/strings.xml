@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resources>
-    <string name="app_name">stocktrade1-2</string>
-    <string name="facebook_app_id">593941124951467</string>
-               <string name="fb_login_protocol_scheme">fb593941124951467</string>
+    <string name="app_name">Page Navigation</string>
+
 </resources>
